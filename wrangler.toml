@@ -1,4 +1,4 @@
-name = "spc-telegram-miniapp"
+name = "spc"
 main = "src/worker.js"
 compatibility_date = "2026-11-04"
 
@@ -10,7 +10,7 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "spc-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "08a8ae68-2d1b-4b85-b328-e520245c5e7b"
 
 [vars]
 APP_NAME = "SPIDER COIN"
